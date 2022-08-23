@@ -1,0 +1,53 @@
+body {
+    background-color: aquamarine;
+}
+
+#Imagem1 {
+    width: 15%;
+    border: 3px solid red;
+    padding: 2mm;
+    margin-left: 17cm;
+}
+
+header {
+    color:red;
+    text-align: center;
+}
+
+.experiencia {
+    background-color: white;
+    border: 3px solid red;
+    padding: 5px;
+}
+.educacao {
+    background-color: gainsboro;
+    padding: 5px;
+}
+.cursos {
+    background-color: burlywood;
+    border: 3px solid red;
+}
+
+
+ul, ol, p {
+    font-size: 20px;
+    margin-left: 2cm;
+}
+
+.subtitulo {
+    margin-left: 2cm;
+    color:blue;
+}
+
+.lista {
+    font-size: 16px;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+#Imagem2 {
+    margin-left: 5cm;
+    width: 20%;
+    border: 4px dotted green;
+    padding: 5px;
+}
